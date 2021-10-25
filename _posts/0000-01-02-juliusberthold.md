@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I need to **practice** more in order to master the _GitHub workflow_
 Use the left arrow to go back!
